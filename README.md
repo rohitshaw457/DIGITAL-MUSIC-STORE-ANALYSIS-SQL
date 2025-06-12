@@ -14,7 +14,10 @@ To analyze a digital music store database using SQL to derive business insightsâ
  8) Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first.
  9) Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent.
 10) We want to find out the most popular music Genre for each country. We determine the most popular genre as the genre with the highest amount of purchases. Write a query that returns each country along with the top Genre. For countries where the maximum number of purchases is shared return all Genres.
- 
+
+ ## ðŸ“„ Solutions Preview
+Below is a snapshot showing couple of solutions from the deck:
+
  
 
 
