@@ -17,10 +17,8 @@ To analyze a digital music store database using SQL to derive business insightsâ
 
  ## ðŸ“„ Solutions Preview
 Below are two slides showing solutions from the deck:
-![Solution Slide 1](solution-deck/Solution-1.png)
-![Solution Slide 2](solution-deck/Solution-2.png)
-
-
+![Solution Slide 1](Solution%20Deck/Solution-1.png)
+![Solution Slide 2](Solution%20Deck/Solution-2.png)
 
  
 
