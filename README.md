@@ -20,6 +20,7 @@ Below are the two slides showing solutions from the deck:
 ![Solution Slide 1](Solution%20Deck/Solution-1.png)
 ![Solution Slide 2](Solution%20Deck/Solution-2.png)
 
+[Click here to open the complete Solution Deck](Solution%20Deck/Solution-Deck.pdf)
 ## 💡 Insights Gained
 - Explored database schema deeply and validated relationships, enhancing understanding of table design and data integrity.
 - Constructed complex joins and aggregations to derive key metrics like top spenders and revenue hotspots, strengthening analytical thinking.
