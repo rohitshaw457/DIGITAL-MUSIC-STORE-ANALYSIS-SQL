@@ -3,7 +3,7 @@
 ## 🎯 Objective
 To analyze a digital music store database using SQL to derive business insights—such as revenue trends, top genres, and customer behavior through a set of guiding questions.
 
-## Analysis Questions
+## 📌 Analysis Questions
  1) Who is the senior most employee based on the job tittle?
  2) Which country have the most Invoices?
  3) What are top 3 values of total invoice
@@ -16,9 +16,21 @@ To analyze a digital music store database using SQL to derive business insights�
 10) We want to find out the most popular music Genre for each country. We determine the most popular genre as the genre with the highest amount of purchases. Write a query that returns each country along with the top Genre. For countries where the maximum number of purchases is shared return all Genres.
 
  ## 📄 Solutions Preview
-Below are two slides showing solutions from the deck:
+Below are the two slides showing solutions from the deck:
 ![Solution Slide 1](Solution%20Deck/Solution-1.png)
 ![Solution Slide 2](Solution%20Deck/Solution-2.png)
+
+## 💡 Insights Gained
+- Explored database schema deeply and validated relationships, enhancing understanding of table design and data integrity.
+- Constructed complex joins and aggregations to derive key metrics like top spenders and revenue hotspots, strengthening analytical thinking.
+- Leveraged CTEs and window functions to solve layered problems such as country-specific rankings and genre analysis.
+- Employed subqueries and filters for targeted insights improving precision in query logic.
+- Translated SQL results into clear findings, improving the ability to derive actionable recommendations and support data-driven decision-making.
+
+
+
+
+
 
  
 
